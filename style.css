@@ -24,6 +24,12 @@ h1 {
   margin-bottom: 20px;
 }
 
+h2 {
+  font-size: 4rem;
+  color: red;
+  text-align: center;
+}
+
 footer {
   text-align: bottom, right;
   font-size: 1.2rem;
