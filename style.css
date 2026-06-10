@@ -40,6 +40,16 @@ h2 {
   text-align: center;
 }
 
+
+  p {
+      font-size: 2.0rem;
+      text-align: center;
+      /*color: rgb(16, 133, 39);*/
+      color: black;
+    }
+
+
+
 footer {
   text-align: bottom, right;
   font-size: 1.2rem;
@@ -74,26 +84,11 @@ footer {
       color: yellow;
     }
 
-    h1 {
+     /*h1 {
       font-size: 3.5rem;
       text-align: left;
-      color: rgb(225, 226, 236);
+      color: rgb(225, 226, 236);*/
     }
-
-
-    h2 {
-      font: 20px;
-      color: red;
-    }
-
-    p {
-      font-size: 2.5rem;
-      font: bold;
-      text-align: center;
-      /*color: rgb(16, 133, 39);*/
-      color: black;
-    }
-
 
     .card {
       width: 100%;
