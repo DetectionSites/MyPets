@@ -77,6 +77,12 @@ footer {
       color: red;
     }
 
+    p {
+      font-size: 2rem;
+      text-align: center;
+      color: rgb(16, 133, 39);
+    }
+
 
     .card {
       width: 100%;
