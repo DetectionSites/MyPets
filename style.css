@@ -1,15 +1,14 @@
 body {
   font-family: "Poppins", sans-serif, Georgia, Times, 'Times New Roman', serif;
   margin: 50px 50px 0 50px;
-  background-color: #555043;
-  /*background-image: sky;*/
+  /*background-color: #555043;*/
   display: center;
   flex-direction: column;
   min-height: 95vh;
 }
 
 body {
-  background-image: url("bg1.jpg");
+  background-image: url("bg8.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
