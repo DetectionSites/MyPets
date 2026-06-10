@@ -9,7 +9,7 @@ body {
 }
 
 body {
-  background-image: url("bg2.jpg");
+  background-image: url("bg1.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
@@ -22,7 +22,7 @@ body {
 }
 
 responsive {
-   max-width: 60%;
+   max-width: 50%;
    height: auto;
   position: relative;
 }
