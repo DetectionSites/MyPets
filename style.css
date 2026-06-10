@@ -8,7 +8,7 @@ body {
 }
 
 body {
-  background-image: url("bg8.jpg");
+  background-image: url("bg9.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
@@ -87,7 +87,8 @@ footer {
     }
 
     p {
-      font-size: 2rem;
+      font-size: 2.5rem;
+      font: bold;
       text-align: center;
       /*color: rgb(16, 133, 39);*/
       color: black;
