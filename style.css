@@ -14,7 +14,18 @@ body {
   background-position: center center;
 }
 
+body {
+    display: flex;
+    justify-content: center; /* Horizontal center */
+    align-items: center;     /* Vertical center */
+    height: 100vh;           /* Full viewport height */
+    margin: 0;
+  }
 
+  img {
+    max-width: 100%;
+    height: auto;
+  }
 
 .main {
   flex: 1;
@@ -50,12 +61,6 @@ h2 {
     }
 
 
-
-footer {
-  text-align: bottom, right;
-  font-size: 1.2rem;
-  color: yellow;
-}
 
   .tile-image {
     height: 200px;
