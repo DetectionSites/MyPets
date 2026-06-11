@@ -1,19 +1,20 @@
 body {
   font-family: "Poppins", sans-serif, Georgia, Times, 'Times New Roman', serif;
   margin: 50px 50px 0 50px;
-  /*background-color: #555043;*/
+  background-color: #555043;
   display: center;
   flex-direction: column;
   min-height: 95vh;
 }
 
+
 body {
-  background-image: url("bg9.jpg");
+  background-image: url("bg1.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
   justify-content: center; /* Horizontal center */
-  align-items: center;     /* Vertical center */
+    align-items: center;     /* Vertical center */
 }
 
 
@@ -22,6 +23,7 @@ body {
     height: auto;
   }
 
+
 .main {
   flex: 1;
 }
@@ -29,7 +31,7 @@ body {
 responsive {
    max-width: 60%;
    height: auto;
-  position: relative;
+   position: relative;
 }
 
 
@@ -56,6 +58,11 @@ h2 {
     }
 
 
+footer {
+  text-align: bottom, right;
+  font-size: 1.2rem;
+  color: yellow;
+}
 
   .tile-image {
     height: 200px;
@@ -85,11 +92,18 @@ h2 {
       color: yellow;
     }
 
-     /*h1 {
+    h1 {
       font-size: 3.5rem;
       text-align: left;
-      color: rgb(225, 226, 236);*/
+      color: rgb(225, 226, 236);
     }
+
+
+    h2 {
+      font: 20px;
+      color: red;
+    }
+
 
     .card {
       width: 100%;
@@ -103,14 +117,14 @@ h2 {
       width: 100%;
       display: inline;
     }
-  }
+  
 
-footer {
+  footer {
   text-align: center;
   color: white;
 }
 
-.bottom-container {
+ .bottom-container {
   background-color: #66BFBF;
   padding: 50px 0 20px;
 }
