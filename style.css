@@ -2,12 +2,12 @@ body {
   font-family: "Poppins", sans-serif, Georgia, Times, 'Times New Roman', serif;
   margin: 50px 50px 0 50px;
   /*background-color: #555043;*/
-  background-color: #4e8df2;  
+  /*background-color: #4e8df2;*/  
   display: center;
   flex-direction: column;
   min-height: 95vh;
- /* background-image: url("bg8.jpg");
-  background-size: cover;*/
+  background-image: url("flower.jpg");
+  background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
   justify-content: center; /* Horizontal center */
