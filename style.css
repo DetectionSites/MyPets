@@ -5,16 +5,12 @@ body {
   display: center;
   flex-direction: column;
   min-height: 95vh;
-}
-
-
-body {
-  background-image: url("bg8.jpg");
-  background-size: cover;
+ /* background-image: url("bg8.jpg");
+  background-size: cover;*/
   background-repeat: no-repeat;
   background-position: center center;
   justify-content: center; /* Horizontal center */
-    align-items: center;     /* Vertical center */
+  align-items: center;     /* Vertical center */
 }
 
 
