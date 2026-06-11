@@ -19,6 +19,7 @@ body {
 
 
   img {
+    position: center;
     max-width: 60%;
     height: auto;
   }
