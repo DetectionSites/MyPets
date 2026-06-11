@@ -13,14 +13,12 @@ body {
   background-repeat: no-repeat;
   background-position: center center;
   justify-content: center; /* Horizontal center */
-    align-items: center;     /* Vertical center */
-    height: 100vh;           /* Full viewport height */
-    margin: 0;  
+  align-items: center;     /* Vertical center */
 }
 
 
   img {
-    max-width: 50%;
+    max-width: 60%;
     height: auto;
   }
 
@@ -29,7 +27,7 @@ body {
 }
 
 responsive {
-   max-width: 50%;
+   max-width: 60%;
    height: auto;
   position: relative;
 }
